@@ -1337,7 +1337,7 @@ body{
     .button3{
         top: 160px;
         left: 180px;
-        width: 150px;
+        width: 130px;
         height: 30px;
         font-size: small;
     }
@@ -1351,6 +1351,7 @@ body{
     .button5{
         top: 160px;
         right: 15px;
+        font-size: small;
         width: 35px;
         height: 30px;
     }
